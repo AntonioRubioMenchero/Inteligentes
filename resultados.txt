@@ -1,0 +1,9 @@
+
+
+Estrategia: Anchura 
+Nodos Generados: 1252
+Profundidad: 2
+Coste: 2
+[0][None](6b09b2076aa6a349c7ad3dd5cee99438,c=0,p=0,h=0.0v=0.0)
+[5][b1](271b46d87199f29c4779b8d90eeddebb,c=1,p=1,h=1.42v=1.0)
+[88][d2](ffe2a82bd4117b6f1a38ee8ab383c3f0,c=2,p=2,h=0.0v=2.0)
